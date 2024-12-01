@@ -1,2 +1,2 @@
 # birthday-website
-This is a website to wish birthday or to your chush as you like.
+This is a website to wish birthday to anyonr  as you like.
